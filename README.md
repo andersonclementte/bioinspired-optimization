@@ -7,8 +7,6 @@ This repository contains two optimization algorithms: Ant Colony Optimization (A
 - [Usage](#usage)
 - [Features](#features)
 - [Algorithms](#algorithms)
-- [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Problem Description
