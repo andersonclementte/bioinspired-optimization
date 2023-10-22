@@ -1,0 +1,12 @@
+nome	latitude	longitude
+Maceió	-9,66599	-35,735
+Satuba	-9,56911	-35,8227
+Rio Largo	-9,47783	-35,8394
+Coqueiro Seco	-9,63715	-35,7994
+Santa Luzia do Norte	-9,6037	-35,8232
+Pilar	-9,60135	-35,9543
+Marechal Deodoro	-9,70971	-35,8967
+Arapiraca	-9,75487	-36,6615
+Atalaia	-9,5119	-36,0086
+Barra de Santo Antônio	-9,4023	-35,5101
+Barra de São Miguel	-9,83842	-35,9057
